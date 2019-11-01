@@ -1,3 +1,4 @@
 my exceedingly bitchin web site
 
-<iframe src="qgis2web/index.html"></iframe>
+- [my exceedingly bitchin web map](qgis2web)
+
